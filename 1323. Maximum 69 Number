@@ -1,0 +1,19 @@
+class Solution(object):
+    def maximum69Number (self, num):
+        """
+        :type num: int
+        :rtype: int
+        """
+        a= str(num)
+        b=list(a)
+        c=0
+        for i in range (len(str(num))):
+            # print (a[i])
+            if b[i]=="6":
+                b[i]="9"
+                c=1
+            if c==1:
+                break
+        a=''.join(b)
+        # print(a)
+        return a
