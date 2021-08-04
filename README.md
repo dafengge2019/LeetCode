@@ -7,3 +7,5 @@
 27. Remove Element
 35. Search Insert Position
 67. Add Binary
+8.3.2021
+70. Climbing Stairs
