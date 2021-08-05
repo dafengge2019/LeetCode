@@ -9,3 +9,6 @@
 67. Add Binary
 8.3.2021
 70. Climbing Stairs
+8.4.2021
+121. Best Time to Buy and Sell Stock
+122. Best Time to Buy and Sell Stock II
