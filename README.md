@@ -11,3 +11,7 @@
 8.4.2021  
 122. Best Time to Buy and Sell Stock II  
 121. Best Time to Buy and Sell Stock  
+8.5.2021  
+125. Valid Palindrome  
+136. Single Number  
+167. Two Sum II - Input array is sorted  
