@@ -14,4 +14,5 @@
 **8.5.2021  **  
 125. Valid Palindrome  
 136. Single Number  
-167. Two Sum II - Input array is sorted  
+167. Two Sum II - Input array is sorted   
+169. Majority Element
