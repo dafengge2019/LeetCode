@@ -16,3 +16,6 @@
 136. Single Number  
 167. Two Sum II - Input array is sorted   
 169. Majority Element
+**8.6.2021  **  
+172. Factorial Trailing Zeroes  
+202. Happy Number
