@@ -18,7 +18,7 @@
 169. Majority Element  
 **8.6.2021  **  
 172. Factorial Trailing Zeroes  
-202. Happy Number
+202. Happy Number  
 **8.7.2021  **  
 231. Power of Two  
 258. Add Digits  
