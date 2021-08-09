@@ -19,3 +19,10 @@
 **8.6.2021  **  
 172. Factorial Trailing Zeroes  
 202. Happy Number
+**8.7.2021  **  
+231. Power of Two  
+258. Add Digits  
+**8.8.2021  **  
+268. Missing Number  
+278. First Bad Version  
+283. Move Zeroes  
