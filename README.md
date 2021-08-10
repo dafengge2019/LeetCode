@@ -26,3 +26,5 @@
 268. Missing Number  
 278. First Bad Version  
 283. Move Zeroes  
+**8.8.2021  **   
+326. Power of Three  
