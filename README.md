@@ -33,4 +33,4 @@
 9 Palindrome Number(二刷)  
 13  Roman to Integer(二刷)    
 **8.12.2021  **  
-20. Valid Parentheses  
+20. Valid Parentheses(二刷)    
