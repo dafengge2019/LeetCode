@@ -33,5 +33,5 @@
 9 Palindrome Number(二刷)  
 13  Roman to Integer(二刷)    
 **8.12.2021  **  
-20. Valid Parentheses(二刷) 
+20. Valid Parentheses(二刷)   
 26. Remove Duplicates from Sorted Array (二刷)     
