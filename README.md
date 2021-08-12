@@ -36,3 +36,4 @@
 20. Valid Parentheses(二刷)   
 26. Remove Duplicates from Sorted Array (二刷)   
 27. Remove Element(二刷)     
+35. Search Insert Position  (二刷)   
