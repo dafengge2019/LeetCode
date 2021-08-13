@@ -39,3 +39,4 @@
 35. Search Insert Position  (二刷)   
 53. Maximum Subarray (二刷)   
 58. Length of Last Word (二刷)   
+66. Plus One (二刷)   
