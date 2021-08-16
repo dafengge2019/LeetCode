@@ -47,4 +47,5 @@
 169. Majority Element (二刷)  
 172. Factorial Trailing Zeroes(二刷)   
 202. Happy Number(二刷)   
-231. Power of Two (二刷)  
+231. Power of Two (二刷) 
+258. Add Digits (二刷)   
