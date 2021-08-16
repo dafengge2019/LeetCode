@@ -43,4 +43,5 @@
 **8.15.2021  **  
 136. Single Number  (二刷)  
 167. Two Sum II - Input array is sorted(二刷)    
-
+**8.16.2021  **   
+169. Majority Element (二刷)  
