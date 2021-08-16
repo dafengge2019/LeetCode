@@ -45,3 +45,4 @@
 167. Two Sum II - Input array is sorted(二刷)    
 **8.16.2021  **   
 169. Majority Element (二刷)  
+172. Factorial Trailing Zeroes(二刷)   
