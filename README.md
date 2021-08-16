@@ -41,6 +41,6 @@
 58. Length of Last Word (二刷)   
 66. Plus One (二刷)   
 **8.15.2021  **  
-136. Single Number  
-167. Two Sum II - Input array is sorted  
+136. Single Number  (二刷)  
+167. Two Sum II - Input array is sorted(二刷)    
 
