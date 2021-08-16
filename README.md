@@ -49,3 +49,4 @@
 202. Happy Number(二刷)   
 231. Power of Two (二刷) 
 258. Add Digits (二刷)   
+268. Missing Number (二刷)  
